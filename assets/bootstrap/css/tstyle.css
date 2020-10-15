@@ -8618,6 +8618,8 @@ body {
   .cid-rpORM0Jppl .navbar-collapse.show {
     display: block !important;
     overflow: auto;
+    background-color: rgb(239, 238, 238);
+    margin-top: 20px;
   }
   .cid-rpORM0Jppl .navbar-collapse.collapsing .navbar-nav,
   .cid-rpORM0Jppl .navbar-collapse.show .navbar-nav {
