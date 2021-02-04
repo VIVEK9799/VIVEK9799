@@ -1821,7 +1821,7 @@ footer section
 .agency-lite-social-icons a:hover,
 .site-footer .team-members-contents a:hover,
 .agency-lite-footer-copyright a:hover {
-	color: #red;
+	color: red;
 }
 
 .site-footer .recent-post-widget>div {
