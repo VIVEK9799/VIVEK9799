@@ -2689,7 +2689,17 @@ section#nav_menu-4 {
     padding-top: 0px;
     padding-left: 60px;
 }
-
+.textwidget{
+  padding-left: 10px;
+}
+.widget-title{
+  
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 40px;
+    color: black;
+}
 
 @media (max-width: 768px) {
   .body-hiden {
@@ -2705,6 +2715,9 @@ section#nav_menu-4 {
   section#nav_menu-4 {
     background-color: #f4f4f4;
     padding-top: 0px;
+    padding-left: 0px;
+  }
+   .textwidget{
     padding-left: 0px;
   }
 }
