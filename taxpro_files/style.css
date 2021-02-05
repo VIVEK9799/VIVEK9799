@@ -2752,7 +2752,11 @@ section#nav_menu-4 {
   }
   .card.col2.p-3.col-12.col-md-8.col-lg-4 {
     max-width: 100% !important;
-  }	
+    padding: 1rem!important;
+  }
+  .img-wrap {
+    max-height: 260px;
+  }
 }
 
 @media (max-width: 1300px) {
