@@ -2633,7 +2633,7 @@ font-size: 13px;
   @media (max-width: 992px) {
     .cid-taxdaddy .card-box {
       margin: 0rem;
-      padding: 2rem 2rem 3rem 2rem;
+      padding: 2rem 2rem 3rem 2rem !important;
     }
     .cid-taxdaddy .text-wrap {
       padding: 0;
@@ -2641,7 +2641,7 @@ font-size: 13px;
   }
   @media (max-width: 767px) {
     .cid-taxdaddy .card-box {
-      padding: 2rem 1rem 3rem 1rem;
+      padding: 2rem 1rem 3rem 1rem !important;
     }
     .cid-taxdaddy .number {
       margin: auto;
