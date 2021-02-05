@@ -2680,6 +2680,10 @@ font-size: 13px;
   color: #9c27b0;
   font-size: 16px;
 }
+.f-logo {
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
 
 @media (max-width: 768px) {
   .body-hiden {
