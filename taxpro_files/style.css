@@ -2701,6 +2701,9 @@ section#nav_menu-4 {
     padding-top: 70px;
     color: black;
 }
+.field-content1 {
+  display: none;
+}
 
 
 @media (max-width: 768px) {
@@ -2779,7 +2782,7 @@ section#nav_menu-4 {
     padding-bottom: 0px;
   }
   .field-content2{
-    display:none;
+    display: inline !IMPORTANT;
   }
 }
 
