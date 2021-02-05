@@ -2777,6 +2777,9 @@ section#nav_menu-4 {
     margin-right: 0px;
     padding-bottom: 0px;
   }
+  .field-content{
+    display:none;
+  }
 }
 
 @media (max-width: 1300px) {
@@ -2788,3 +2791,10 @@ section#nav_menu-4 {
     .menu-m {
        visibility: hidden;
     }
+}	
+
+@media (min-width: 768px) {
+    .field-content1{
+    display:none;
+  }
+}
