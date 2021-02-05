@@ -2686,3 +2686,13 @@ font-size: 13px;
     visibility: hidden;
   }
 }
+
+@media (max-width: 1300px) {
+    .icons-top {
+       visibility: hidden;
+    }
+
+@media (max-width: 1024px) {
+    .menu-m {
+       visibility: hidden;
+    }
