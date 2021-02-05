@@ -2764,8 +2764,8 @@ section#nav_menu-4 {
     margin: 0px 0;
   }
   .container.clearfix {
-    padding-right: 5px !important;
-    padding-left: 5px !important;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
   }
    #txt{
     width: auto;
