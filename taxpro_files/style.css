@@ -2741,6 +2741,12 @@ section#nav_menu-4 {
   .team1 {
     width:auto;
   }
+   .justify-content-center {
+    display: inline-block;
+  } 
+   .card.col1.p-3.col-12.col-md-8.col-lg-4 {
+    max-width: 100%;
+  }
 }
 
 @media (max-width: 1300px) {
