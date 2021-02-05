@@ -2738,6 +2738,9 @@ section#nav_menu-4 {
   .agency-lite-section-footer-wrap-main {
     padding-bottom: 20px !important;
   }
+  .team1 {
+    width:auto;
+  }
 }
 
 @media (max-width: 1300px) {
