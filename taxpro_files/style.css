@@ -2692,8 +2692,9 @@ font-size: 13px;
     .logo-m {
       max-width: 50%;
   }
-    .agency-lite-container {
+    .f-class {
       width: auto;
+      padding-right: 30px;
   }
 }
 
