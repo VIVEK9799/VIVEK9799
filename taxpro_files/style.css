@@ -2728,6 +2728,13 @@ section#nav_menu-4 {
     padding-top: 20px;
     color: black;
   }
+    .f-cont {
+  
+    /* width: 70%; */
+  }
+  .agency-lite-footer-nav-menu .menu li{
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 1300px) {
