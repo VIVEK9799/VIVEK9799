@@ -2685,6 +2685,9 @@ font-size: 13px;
   .body-hiden {
     visibility: hidden;
   }
+    .logo-m {
+      max-width: 50%;
+  }
 }
 
 @media (max-width: 1300px) {
