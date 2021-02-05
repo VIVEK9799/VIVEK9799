@@ -2700,16 +2700,7 @@ section#nav_menu-4 {
     padding-top: 70px;
     color: black;
 }
-.card.col1.p-3.col-12.col-md-8.col-lg-4 {
-    background-color: #2a2a2a;
-    color: white;
-    border: 1px solid rgb(42 42 42);
-    padding: 1rem!important;
-    flex: 0 0 33.33333%;
-    max-width: 33.33333%;
-    width: 100%;
-    min-height: 1px;
-    box-sizing: border-box;
+
 
 @media (max-width: 768px) {
   .body-hiden {
