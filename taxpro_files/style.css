@@ -2735,6 +2735,9 @@ section#nav_menu-4 {
   .agency-lite-footer-nav-menu .menu li{
     margin-right: 0;
   }
+  .agency-lite-section-footer-wrap-main {
+    padding-bottom: 20px !important;
+  }
 }
 
 @media (max-width: 1300px) {
