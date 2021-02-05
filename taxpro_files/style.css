@@ -2774,6 +2774,8 @@ section#nav_menu-4 {
   #block-block-1 h1{
     font-size: 2.0em;
     text-transform: capitalize;
+    margin-right: 0px;
+    padding-bottom: 0px;
   }
 }
 
