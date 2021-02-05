@@ -2758,7 +2758,7 @@ section#nav_menu-4 {
     max-height: 260px;
   }
   .infra{
-    content-visibility: hidden;
+    display: none;
   }
   #mining {
     margin: 0px 0;
