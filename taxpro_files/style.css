@@ -2748,8 +2748,11 @@ section#nav_menu-4 {
     padding-right: 0px !important;
   } 
    .card.col1.p-3.col-12.col-md-8.col-lg-4 {
-    max-width: 100%;
+    max-width: 100% !important;
   }
+  .card.col2.p-3.col-12.col-md-8.col-lg-4 {
+    max-width: 100% !important;
+  }	
 }
 
 @media (max-width: 1300px) {
