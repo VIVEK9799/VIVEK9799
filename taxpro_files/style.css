@@ -2683,6 +2683,7 @@ font-size: 13px;
 .f-logo {
     padding-top: 0px;
     padding-bottom: 20px;
+    max-width: 70% !important;
 }
 section#nav_menu-4 {
     background-color: #f4f4f4;
@@ -2707,7 +2708,7 @@ section#nav_menu-4 {
     visibility: hidden;
   }
     .logo-m {
-      max-width: 70%;
+      max-width: 50%;
   }
     .f-class {
       width: auto;
