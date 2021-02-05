@@ -2692,6 +2692,9 @@ font-size: 13px;
     .logo-m {
       max-width: 50%;
   }
+    .agency-lite-container {
+      width: auto;
+  }
 }
 
 @media (max-width: 1300px) {
