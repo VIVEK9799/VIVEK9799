@@ -2785,6 +2785,8 @@ section#nav_menu-4 {
   .field-content1{
     display: inline !important;
   }
+  #txt-rt{display: none;
+  }
 }
 
 @media (max-width: 1300px) {
