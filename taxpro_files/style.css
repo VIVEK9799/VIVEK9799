@@ -2699,8 +2699,8 @@ section#nav_menu-4 {
     padding-top: 70px;
     color: black;
 }
-.field-content1 {
-  display: none;
+.field-content2 {
+  display: inline;
 }
 
 
@@ -2780,7 +2780,10 @@ section#nav_menu-4 {
     padding-bottom: 0px;
   }
   .field-content2{
-    display: inline !IMPORTANT;
+    display: none;
+  }
+  .field-content1{
+    display: inline !important;
   }
 }
 
@@ -2795,8 +2798,3 @@ section#nav_menu-4 {
     }
 }	
 
-@media (min-width: 768px) {
-    .field-content1{
-    display:none;
-  }
-}
