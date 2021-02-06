@@ -2600,7 +2600,7 @@ font-size: 13px;
     object-fit: cover;
   }
   .cid-taxdaddy .img-wrap {
-    max-height: 220px;
+    max-height: 280px;
     overflow: hidden;
   }
   .cid-taxdaddy .container {
@@ -2759,7 +2759,7 @@ section#nav_menu-4 {
     padding: 1rem !important;
   }
   .img-wrap {
-    max-height: 260px;
+    max-height: 350px !important;
   }
   .infra{
     display: none;
