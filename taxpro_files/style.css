@@ -1,6 +1,4 @@
-/*
-www.devsaran.com
-*/
+
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,300,600,700);
 
@@ -2759,7 +2757,7 @@ section#nav_menu-4 {
     padding: 1rem !important;
   }
   .img-wrap {
-    max-height: 350px !important;
+    max-height: 260px !important;
   }
   .infra{
     display: none;
