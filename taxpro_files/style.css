@@ -2702,6 +2702,9 @@ section#nav_menu-4 {
 .field-content2 {
   display: inline;
 }
+ .iconmenu{
+    display: none;
+}
 
 
 @media (max-width: 768px) {
@@ -2786,6 +2789,9 @@ section#nav_menu-4 {
     display: inline !important;
   }
   #txt-rt{display: none;
+  }
+   .iconmenu{
+    display: inline !important;
   }
 }
 
