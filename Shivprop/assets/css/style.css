@@ -597,8 +597,8 @@ section {
 }
 .aboutme {
   background: url("../img/Shivpic2.jpg") center center no-repeat;
-  background-size: cover;
-  min-height: 400px;
+  background-size: auto;
+  height: 48rem;
 }
 @media (max-width: 991px) {
   .about .image {
@@ -613,6 +613,12 @@ section {
   .about .image img {
     max-width: 100%;
   }
+  .aboutme {
+  background: url("../img/Shivpic2.jpg") center center no-repeat;
+  background-size: contain;
+    height: 48rem;
+    width: 28rem;
+}
 }
 
 /*--------------------------------------------------------------
