@@ -596,12 +596,17 @@ section {
   min-height: 400px;
 }
 .aboutme {
-  background: url("../img/Shivpic2.jpg") center center no-repeat;
+  background: url("../img/Shivpic.jpg") center center no-repeat;
   background-size: auto;
   height: 48rem;
 }
 .about1 {
-  background: url("../img/Shivpic2.jpg") center center no-repeat;
+  background: url("../img/Shivpic3.jpg") center center no-repeat;
+  background-size: auto;
+  height: 48rem;
+}
+.about2 {
+  background: url("../img/Shivpic4.jpg") center center no-repeat;
   background-size: auto;
   height: 48rem;
 }
@@ -621,6 +626,18 @@ section {
   }
   .aboutme {
   background: url("../img/Shivpic2.jpg") center center no-repeat;
+  background-size: contain;
+    height: 20rem;
+    width: 100%;
+}
+  .about1 {
+  background: url("../img/Shivpic3.jpg") center center no-repeat;
+  background-size: contain;
+    height: 20rem;
+    width: 100%;
+}
+  .about2 {
+  background: url("../img/Shivpic4.jpg") center center no-repeat;
   background-size: contain;
     height: 20rem;
     width: 100%;
