@@ -617,7 +617,7 @@ section {
   background: url("../img/Shivpic2.jpg") center center no-repeat;
   background-size: contain;
     height: 48rem;
-    width: 28rem;
+    width: 100%;
 }
 }
 
