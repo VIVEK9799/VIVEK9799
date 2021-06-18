@@ -595,7 +595,11 @@ section {
   background-size: cover;
   min-height: 400px;
 }
-
+.aboutme {
+  background: url("../img/Shivpic2.jpg") center center no-repeat;
+  background-size: cover;
+  min-height: 400px;
+}
 @media (max-width: 991px) {
   .about .image {
     text-align: center;
