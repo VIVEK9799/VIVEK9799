@@ -600,6 +600,12 @@ section {
   background-size: auto;
   height: 48rem;
 }
+.about1 {
+  background: url("../img/Shivpic2.jpg") center center no-repeat;
+  background-size: auto;
+  height: 48rem;
+}
+
 @media (max-width: 991px) {
   .about .image {
     text-align: center;
